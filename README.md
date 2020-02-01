@@ -1,1 +1,1 @@
-# programozas-alapjai
+# Programozas alapjai sorozat forraskodja
