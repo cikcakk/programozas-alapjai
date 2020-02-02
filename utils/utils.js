@@ -1,7 +1,7 @@
 const beSzam = (szoveg = "Irj be kerlek egy szamot.") => {
     let szam = prompt(szoveg);
     szam = szam.indexOf(".") ? parseFloat(szam) : parseInt(szam, 10);
-    console.log(typeof szam);
+    kiIr(`A beolvasott szam: ${szam}`);
     return szam;
 };
 
