@@ -27,8 +27,6 @@ if (ora < 4) {
     kiIr(napszakSablon + "Delelott");
 } else if (ora < 19) {
     kiIr(napszakSablon + "Delutan");
-} else if (ora < 24) {
-    kiIr(napszakSablon + "Este");
 } else {
     kiIr(napszakSablon + "Ejjel");
 }
