@@ -5,7 +5,7 @@ import { beSzam, kiIr } from "./utils/utils.js";
 // Math, a JavaScript beépített objektuma
 // 02. Írjunk programot, amely bekéri egy kocka oldalainak a hosszát. Írja ki a kocka alapterületét és a térfogatát!
 
-kiIr("kérem a kozka oldalának a hosszát!");
+kiIr("Kérem a kocka oldalának a hosszát!");
 
 let oldalHossza = beSzam();
 
