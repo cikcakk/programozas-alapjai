@@ -4,3 +4,4 @@ import { beSzam, kiIr } from "./utils/utils.js";
 
 // Elágazás, if else
 // 03. Írjunk programot, amely kér egy számot a felhasználótól. Írja ki, hogy a szám páros-e vagy sem. (Elágazás)
+("a");
